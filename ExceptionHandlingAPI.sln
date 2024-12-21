@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "UnitTest.Exception\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src-sql", "src-sql", "{52092458-669F-48A2-882F-38E0C8C16192}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Vi", "Vi\Vi.sqlproj", "{20D280A8-DEC7-463A-9234-D795EEE82A69}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Vi-sql", "Vi\Vi-sql.sqlproj", "{20D280A8-DEC7-463A-9234-D795EEE82A69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

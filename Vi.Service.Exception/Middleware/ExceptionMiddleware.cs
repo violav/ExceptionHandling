@@ -2,8 +2,6 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Vi.Service.Exception.Extensions;
 
-using Vi.Service.Exception.Models;
-
 namespace Vi.Service.Exception
 {
     /// <summary>

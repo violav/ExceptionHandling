@@ -1,11 +1,7 @@
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Data.SqlClient;
-using System.Linq.Expressions;
-using System.Reflection;
-using System.Text;
-using System.Data;
 using Dapper;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
+using System.Data;
 
 namespace Data.Data.EF.Context;
 public static class DbContextExtensions

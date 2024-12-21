@@ -1,6 +1,3 @@
-using Data.Extensions;
-using Data.Options;
-using Microsoft.AspNetCore;
 using violaAPITest;
 
 public class Program

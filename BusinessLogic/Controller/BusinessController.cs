@@ -1,9 +1,6 @@
-﻿
-using BusinessLogic.Options;
-using BusinessLogic.Services;
+﻿using BusinessLogic.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Options;
 
 namespace BusinessLogic.Controller
 {

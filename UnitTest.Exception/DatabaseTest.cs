@@ -81,8 +81,6 @@ namespace BusinessLogicTest
         }
 
 
-
-        /**************************+ DAPPER ********************************/
         [Fact]
         public async Task DapperTest()
         {
@@ -111,7 +109,6 @@ namespace BusinessLogicTest
 
             Assert.True(result.Count() == 6);
         }
-        /*********************************** FINE DAPPER ********************************/
 
     }
 }
